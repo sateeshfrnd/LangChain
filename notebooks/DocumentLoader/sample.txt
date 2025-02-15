@@ -1,0 +1,5 @@
+LangChain is an open-source framework designed to help developers build applications powered by large language models (LLMs).  
+
+It provides tools for loading, processing, and managing different types of data sources such as text files, PDFs, web pages, and databases.  
+
+Using LangChain's document loaders, we can efficiently fetch data from multiple sources and utilize it for various AI-based tasks.
