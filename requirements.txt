@@ -13,3 +13,6 @@ numpy
 scikit-learn
 sentence_transformers
 langchain_huggingface
+chromadb
+faiss-cpu
+langchain_chroma
