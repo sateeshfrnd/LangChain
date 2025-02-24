@@ -8,3 +8,8 @@ arxiv
 pymupdf
 wikipedia
 langchain-text-splitters
+langchain-openai
+numpy
+scikit-learn
+sentence_transformers
+langchain_huggingface
