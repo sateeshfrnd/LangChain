@@ -22,3 +22,7 @@ fastapi
 uvicorn
 langserve
 sse_starlette
+# Agents and tools
+arxiv
+wikipedia
+langchainhub
