@@ -22,7 +22,9 @@ fastapi
 uvicorn
 langserve
 sse_starlette
-# Agents and tools
-arxiv
-wikipedia
+# UI
+streamlit==1.31.0
+torch==2.1.0 --index-url https://download.pytorch.org/whl/cpu
+# # Agents and tools
 langchainhub
+duckduckgo-search
