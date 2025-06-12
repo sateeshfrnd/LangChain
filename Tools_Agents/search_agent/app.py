@@ -72,8 +72,10 @@ def setup_tools():
 # Funtion to render sidebar for configuration and information.
 def render_sidebar():
     with st.sidebar:
-        st.header("Configuration")        
-        groq_api_key = st.text_input("Enter your GROQ API Key", type="password")
+        st.header("Configuration")
+        # TODO: Remove hardcoded API Key
+        groq_api_key = st.text_input("Enter your GROQ API Key", type="password", value="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")
+        # groq_api_key = st.text_input("Enter your GROQ API Key", type="password")
 
          # Add a divider
         st.markdown("---")

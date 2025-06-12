@@ -76,7 +76,7 @@ def get_tools():
 def render_sidebar():
     with st.sidebar:
         st.header("Configuration")
-        groq_api_key = st.text_input("Enter your GROQ API Key", type="password")
+        groq_api_key = st.text_input("Enter your GROQ API Key", type="password", value="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")
 
          # Add a divider
         st.markdown("---")
